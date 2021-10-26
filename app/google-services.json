@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "890913264177",
+    "project_id": "fashionapp-d0075",
+    "storage_bucket": "fashionapp-d0075.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890913264177:android:c14ffa1fe9ebaea977bb10",
+        "android_client_info": {
+          "package_name": "com.example.fashionista"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890913264177-36g3l8n9dmb7qu5r9kfeu47hjalsd58h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fashionista",
+            "certificate_hash": "9039a46946248bb57cffcd30cf6f0791a6765c83"
+          }
+        },
+        {
+          "client_id": "890913264177-7b7ss21l87jdevrjar3e63po4onqm1ik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXMkj6DjLyc48NzfTQWfdD_n2yjB00iAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890913264177-7b7ss21l87jdevrjar3e63po4onqm1ik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Studio Projects/Minor Projects/FashioIsta-master/app/src/main/res/layout/activity_main.xml" value="0.17300724637681159" />
+        <entry key="..\:/Android Studio Projects/Minor Projects/FashioIsta-master/app/src/main/res/layout/activity_men_top_formal.xml" value="0.24547101449275363" />
+        <entry key="..\:/Android Studio Projects/Minor Projects/FashioIsta-master/app/src/main/res/layout/activity_mens.xml" value="0.17300724637681159" />
+        <entry key="..\:/Android Studio Projects/Minor Projects/FashioIsta-master/app/src/main/res/layout/app_bar_main.xml" value="0.17300724637681159" />
+        <entry key="..\:/Android Studio Projects/Minor Projects/FashioIsta-master/app/src/main/res/layout/content_main.xml" value="0.17300724637681159" />
+        <entry key="..\:/Android Studio Projects/Minor Projects/FashioIsta-master/app/src/main/res/layout/content_mens.xml" value="0.17300724637681159" />
+        <entry key="..\:/Android Studio Projects/Minor Projects/FashioIsta-master/app/src/main/res/layout/each_item.xml" value="0.25" />
+        <entry key="..\:/Android Studio Projects/Minor Projects/FashioIsta-master/app/src/main/res/layout/fragment_first.xml" value="0.17300724637681159" />
+        <entry key="..\:/Android Studio Projects/Minor Projects/FashioIsta-master/app/src/main/res/layout/fragment_gallery.xml" value="0.17300724637681159" />
+        <entry key="..\:/Android Studio Projects/Minor Projects/FashioIsta-master/app/src/main/res/layout/fragment_home.xml" value="0.17300724637681159" />
+        <entry key="..\:/Android Studio Projects/Minor Projects/FashioIsta-master/app/src/main/res/layout/fragment_second.xml" value="0.17300724637681159" />
+        <entry key="..\:/Android Studio Projects/Minor Projects/FashioIsta-master/app/src/main/res/layout/fragment_slideshow.xml" value="0.17300724637681159" />
+        <entry key="..\:/Android Studio Projects/Minor Projects/FashioIsta-master/app/src/main/res/layout/item.xml" value="0.25" />
+        <entry key="..\:/Android Studio Projects/Minor Projects/FashioIsta-master/app/src/main/res/layout/mens.xml" value="0.24547101449275363" />
+        <entry key="..\:/Android Studio Projects/Minor Projects/FashioIsta-master/app/src/main/res/layout/mens_casuals.xml" value="0.17300724637681159" />
+        <entry key="..\:/Android Studio Projects/Minor Projects/FashioIsta-master/app/src/main/res/layout/mens_formals.xml" value="0.17300724637681159" />
+        <entry key="..\:/Android Studio Projects/Minor Projects/FashioIsta-master/app/src/main/res/layout/nav_header_main.xml" value="0.2" />
+        <entry key="..\:/Android Studio Projects/Minor Projects/FashioIsta-master/app/src/main/res/layout/splash.xml" value="0.1793478260869565" />
+        <entry key="..\:/Android Studio Projects/Minor Projects/FashioIsta-master/app/src/main/res/layout/womens.xml" value="0.1793478260869565" />
+        <entry key="..\:/Android Studio Projects/Minor Projects/FashioIsta-master/app/src/main/res/layout/womens_casuals.xml" value="0.1793478260869565" />
+        <entry key="..\:/Android Studio Projects/Minor Projects/FashioIsta-master/app/src/main/res/layout/womens_formals.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/Fashionista/app/src/main/res/drawable-v21/ic_menu_camera.xml" value="0.10925925925925926" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/Fashionista/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/Fashionista/app/src/main/res/layout/activity_mens.xml" value="0.20923913043478262" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/Fashionista/app/src/main/res/layout/app_bar_main.xml" value="0.20923913043478262" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/Fashionista/app/src/main/res/layout/content_main.xml" value="0.20923913043478262" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/Fashionista/app/src/main/res/layout/content_mens.xml" value="0.264" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/Fashionista/app/src/main/res/layout/fragment_first.xml" value="0.20923913043478262" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/Fashionista/app/src/main/res/layout/fragment_gallery.xml" value="0.22192028985507245" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/Fashionista/app/src/main/res/layout/fragment_home.xml" value="0.20425724637681159" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/Fashionista/app/src/main/res/layout/fragment_second.xml" value="0.11200000000000002" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/Fashionista/app/src/main/res/layout/login_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/Fashionista/app/src/main/res/layout/mens.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/Fashionista/app/src/main/res/layout/mens_casuals.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/Fashionista/app/src/main/res/layout/mens_formals.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/Fashionista/app/src/main/res/layout/splash.xml" value="0.20244565217391305" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/Fashionista/app/src/main/res/layout/womens.xml" value="0.22192028985507245" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/Fashionista/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/Fashionista/app/src/main/res/menu/main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/anmol/AndroidStudioProjects/FashioIsta/app/src/main/res/drawable-v21/ic_menu_camera.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/anmol/AndroidStudioProjects/FashioIsta/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/anmol/AndroidStudioProjects/FashioIsta/app/src/main/res/drawable/ic_launcher_background.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/anmol/AndroidStudioProjects/FashioIsta/app/src/main/res/layout/activity_main.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/anmol/AndroidStudioProjects/FashioIsta/app/src/main/res/layout/app_bar_main.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/anmol/AndroidStudioProjects/FashioIsta/app/src/main/res/layout/content_main.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/anmol/AndroidStudioProjects/FashioIsta/app/src/main/res/layout/fragment_home.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/anmol/AndroidStudioProjects/FashioIsta/app/src/main/res/layout/login_page.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/anmol/AndroidStudioProjects/FashioIsta/app/src/main/res/layout/mens.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/anmol/AndroidStudioProjects/FashioIsta/app/src/main/res/layout/mens_casuals.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/anmol/AndroidStudioProjects/FashioIsta/app/src/main/res/layout/mens_formals.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/anmol/AndroidStudioProjects/FashioIsta/app/src/main/res/layout/nav_header_main.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/anmol/AndroidStudioProjects/FashioIsta/app/src/main/res/layout/splash.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/anmol/AndroidStudioProjects/FashioIsta/app/src/main/res/layout/womens.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/anmol/AndroidStudioProjects/FashioIsta/app/src/main/res/layout/womens_casuals.xml" value="0.175" />
+        <entry key="..\:/Users/anmol/AndroidStudioProjects/FashioIsta/app/src/main/res/layout/womens_formals.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/anmol/AndroidStudioProjects/FashioIsta/app/src/main/res/menu/activity_main_drawer.xml" value="0.25677083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
